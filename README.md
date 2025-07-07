@@ -73,3 +73,17 @@
                 <li>Projetos de Integração de Sistemas</li>
             </ul>
         </section>
+        <section class="text-center">
+            <h3 class="text-2xl sm:text-3xl font-bold text-gray-800 mb-4">Conecte-se Comigo!</h3>
+            <p class="text-gray-700 leading-relaxed mb-6">
+                Estou sempre aberto a novas oportunidades, colaborações em projetos interessantes ou troca de conhecimentos sobre desenvolvimento de software.
+            </p>
+            <div class="flex flex-col sm:flex-row justify-center gap-4">
+                <a href="[Seu URL do Perfil do LinkedIn, ex: https://www.linkedin.com/in/felipe-costa-engineer/]" target="_blank" class="bg-blue-600 hover:bg-blue-700 text-white font-bold py-3 px-6 rounded-lg shadow-md transition duration-300 ease-in-out transform hover:scale-105">
+                    LinkedIn
+                </a>
+                <a href="mailto:lip-sousa@hotmail.com" class="bg-gray-700 hover:bg-gray-800 text-white font-bold py-3 px-6 rounded-lg shadow-md transition duration-300 ease-in-out transform hover:scale-105">
+                    Email
+                </a>
+            </div>
+        </section>
