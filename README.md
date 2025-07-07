@@ -60,3 +60,16 @@
                 <span class="bg-blue-100 text-blue-800 text-sm font-medium px-3 py-1 rounded-full shadow-sm">Testes Unitários</span>
             </div>
         </section>
+        <section class="mb-8">
+            <h3 class="text-2xl sm:text-3xl font-bold text-gray-800 mb-4">Explore Meu Trabalho</h3>
+            <p class="text-gray-700 leading-relaxed mb-4">
+                Confira meus repositórios para ver exemplos de:
+            </p>
+            <ul class="list-disc list-inside text-gray-700 space-y-2">
+                <li>Serviços Back-End Escaláveis e Desenvolvimento de API</li>
+                <li>Implantações em Nuvem e Infraestrutura como Código</li>
+                <li>Soluções de Processamento de Dados e ETL</li>
+                <li>Implementações de Microsserviços</li>
+                <li>Projetos de Integração de Sistemas</li>
+            </ul>
+        </section>
