@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -19,12 +17,14 @@
 <body class="flex justify-center items-center min-h-screen p-4 sm:p-6 md:p-8">
     <div class="bg-white shadow-xl rounded-xl p-6 sm:p-8 md:p-10 lg:p-12 max-w-4xl w-full mx-auto border border-gray-200">
 
+        <!-- Header Section -->
         <header class="text-center mb-8">
             <h1 class="text-4xl sm:text-5xl font-extrabold text-blue-700 mb-2">Olá, sou Felipe Sousa da Costa 👋</h1>
-            <h2 class="text-xl sm:text-2xl font-semibold text-gray-700">Engenheiro de Software Focado em Entregas que fazem sentido | Tech Lead | Especialista em Python e Nuvem</h2>
+            <h2 class="text-xl sm:text-2xl font-semibold text-gray-700">Engenheiro de Software Focado em Soluções | Tech Lead | Especialista em Python e Nuvem</h2>
             <hr class="my-6 border-t-2 border-blue-200 w-24 mx-auto rounded-full">
         </header>
 
+        <!-- About Me Section -->
         <section class="mb-8">
             <h3 class="text-2xl sm:text-3xl font-bold text-gray-800 mb-4">Sobre Mim</h3>
             <p class="text-gray-700 leading-relaxed mb-4">
@@ -35,6 +35,7 @@
             </p>
         </section>
 
+        <!-- My Skills Section -->
         <section class="mb-8">
             <h3 class="text-2xl sm:text-3xl font-bold text-gray-800 mb-4">Minhas Habilidades</h3>
             <ul class="grid grid-cols-1 md:grid-cols-2 gap-4 text-gray-700">
@@ -69,6 +70,7 @@
             </ul>
         </section>
 
+        <!-- Technologies & Tools Section -->
         <section class="mb-8">
             <h3 class="text-2xl sm:text-3xl font-bold text-gray-800 mb-4">Tecnologias & Ferramentas</h3>
             <div class="flex flex-wrap gap-3">
@@ -92,6 +94,7 @@
             </div>
         </section>
 
+        <!-- Explore My Work Section -->
         <section class="mb-8">
             <h3 class="text-2xl sm:text-3xl font-bold text-gray-800 mb-4">Explore Meu Trabalho</h3>
             <p class="text-gray-700 leading-relaxed mb-4">
@@ -106,6 +109,7 @@
             </ul>
         </section>
 
+        <!-- Let's Connect Section -->
         <section class="text-center">
             <h3 class="text-2xl sm:text-3xl font-bold text-gray-800 mb-4">Conecte-se Comigo!</h3>
             <p class="text-gray-700 leading-relaxed mb-6">
@@ -123,4 +127,3 @@
 
     </div>
 </body>
-</html>
