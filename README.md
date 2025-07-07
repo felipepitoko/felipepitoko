@@ -79,7 +79,7 @@
                 Estou sempre aberto a novas oportunidades, colaborações em projetos interessantes ou troca de conhecimentos sobre desenvolvimento de software.
             </p>
             <div class="flex flex-col sm:flex-row justify-center gap-4">
-                <a href="[Seu URL do Perfil do LinkedIn, ex: https://www.linkedin.com/in/felipe-costa-engineer/]" target="_blank" class="bg-blue-600 hover:bg-blue-700 text-white font-bold py-3 px-6 rounded-lg shadow-md transition duration-300 ease-in-out transform hover:scale-105">
+                <a href="https://www.linkedin.com/in/felipe-sousa-da-costa-8b2b89149/" target="_blank" class="bg-blue-600 hover:bg-blue-700 text-white font-bold py-3 px-6 rounded-lg shadow-md transition duration-300 ease-in-out transform hover:scale-105">
                     LinkedIn
                 </a>
                 <a href="mailto:lip-sousa@hotmail.com" class="bg-gray-700 hover:bg-gray-800 text-white font-bold py-3 px-6 rounded-lg shadow-md transition duration-300 ease-in-out transform hover:scale-105">
