@@ -1,16 +1,58 @@
-<h1> Felipe Costa</h1>
-<h3>Graduado em Engenharia da computação - UFPA</h3>
-<h3>Pós-graduado em Arquitetura de Software - Anhanguera ampli</h3>
-<br/>
-<br/>
-<b>3 anos de atuação como tech na área jurídica</b>
-<b>Se você faz no computador, PODE SER AUTOMATIZADO!</b>
-<ul>
-  <li>Desenho de soluções de RPA</li>
-  <li>Desenho de sistemas web</li>
-  <li>DevOps GCP e AWS</li>
-  <li>Desenvolvimento web</li>
-  <li>Análise de dados</li>
-</ul>
+Olá, sou Felipe Sousa da Costa 👋
+Engenheiro de Software Focado em Soluções | Tech Lead | Especialista em Python e Nuvem
+Sobre Mim
+Sou um Engenheiro de Software apaixonado, com mais de 4 anos de experiência no desenvolvimento Back-End e na construção de soluções de software robustas e escaláveis. Como um "Solutions Builder", tenho expertise em transformar desafios complexos em arquiteturas técnicas eficientes e de alta performance, utilizando Python com frameworks como Django, Flask e FastAPI.
 
-<h3>Python, Javascript, Typescript, Excel avançado, HubspotCRM e incontáveis plataformas low code.</h3>
+Minha atuação inclui o desenvolvimento de microsserviços e a integração de sistemas diversos. Possuo forte experiência em plataformas de nuvem, especialmente AWS, e trabalho com bancos de dados relacionais e não-relacionais. Minha experiência como Tech Lead me permitiu liderar equipes, colaborar ativamente e interagir com clientes para entregar transformações digitais impactantes.
+
+Minhas Habilidades
+Desenvolvimento Back-End: Experiência sólida com Python e frameworks web modernos (Django, Flask, FastAPI).
+
+Microsserviços: Habilidade em projetar, desenvolver e implantar arquiteturas de microsserviços.
+
+Cloud (AWS): Proficiência em implantação e gestão de aplicações na nuvem AWS (EC2, Lambda, S3, RDS, SQS, SNS, CloudWatch, EKS).
+
+Integração de Sistemas: Especialista na conexão de sistemas via APIs RESTful e pipelines de dados (ETL).
+
+Bancos de Dados: Experiência com SQL (PostgreSQL, MySQL) e NoSQL (DynamoDB).
+
+Liderança e Agile: Habilidades em liderança de equipes e aplicação de metodologias ágeis (Scrum/Kanban).
+
+Tecnologias & Ferramentas
+Linguagens: Python, SQL
+
+Frameworks Web: Django, Flask, FastAPI
+
+Cloud: AWS (EC2, Lambda, S3, RDS, SQS, SNS, SES, CloudWatch, EKS)
+
+Bancos de Dados: PostgreSQL, MySQL, DynamoDB
+
+Arquitetura: Microsserviços, APIs RESTful, ETL
+
+Controle de Versão: Git
+
+Metodologias: Agile (Scrum/Kanban)
+
+Observabilidade: CloudWatch, fundamentos de observabilidade
+
+Testes: Testes Unitários
+
+Explore Meu Trabalho
+Confira meus repositórios para ver exemplos de:
+
+Serviços Back-End Escaláveis e Desenvolvimento de API
+
+Implantações em Nuvem e Infraestrutura como Código
+
+Soluções de Processamento de Dados e ETL
+
+Implementações de Microsserviços
+
+Projetos de Integração de Sistemas
+
+Conecte-se Comigo!
+Estou sempre aberto a novas oportunidades, colaborações em projetos interessantes ou troca de conhecimentos sobre desenvolvimento de software.
+
+LinkedIn: [Seu URL do Perfil do LinkedIn, ex: https://www.linkedin.com/in/felipe-costa-engineer/]
+
+Email: lip-sousa@hotmail.com
