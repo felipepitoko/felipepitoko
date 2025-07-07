@@ -15,32 +15,25 @@
 <section class="mb-8">
             <h3 class="text-2xl sm:text-3xl font-bold text-gray-800 mb-4">Minhas Habilidades</h3>
             <ul class="grid grid-cols-1 md:grid-cols-2 gap-4 text-gray-700">
-                <li class="flex items-start">
-                    
+                <li class="flex items-start">                    
                     <p><strong class="font-semibold">Desenvolvimento Back-End:</strong> Experiência sólida com Python e frameworks web modernos (Django, Flask, FastAPI).</p>
                 </li>
-                <li class="flex items-start">
-                    
+                <li class="flex items-start">                    
                     <p><strong class="font-semibold">Microsserviços:</strong> Habilidade em projetar, desenvolver e implantar arquiteturas de microsserviços.</p>
                 </li>
-                <li class="flex items-start">
-                    
+                <li class="flex items-start">                    
                     <p><strong class="font-semibold">Cloud (AWS):</strong> Proficiência em implantação e gestão de aplicações na nuvem AWS (EC2, Lambda, S3, RDS, SQS, SNS, CloudWatch, EKS).</p>
                 </li>
-                <li class="flex items-start">
-                    
+                <li class="flex items-start">                    
                     <p><strong class="font-semibold">Integração de Sistemas:</strong> Especialista na conexão de sistemas via APIs RESTful e pipelines de dados (ETL).</p>
                 </li>
-                <li class="flex items-start">
-                    
+                <li class="flex items-start">                    
                     <p><strong class="font-semibold">Bancos de Dados:</strong> Experiência com SQL (PostgreSQL, MySQL) e NoSQL (DynamoDB).</p>
                 </li>
-                <li class="flex items-start">
-                    
+                <li class="flex items-start">                    
                     <p><strong class="font-semibold">Liderança e Agile:</strong> Habilidades em liderança de equipes e aplicação de metodologias ágeis (Scrum/Kanban).</p>
                 </li>
-                <li class="flex items-start">
-                    
+                <li class="flex items-start">                    
                     <p><strong class="font-semibold">Comunicação:</strong> Fluência em Português e Inglês profissional para comunicação global.</p>
                 </li>
             </ul>
